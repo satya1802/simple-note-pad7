@@ -7,7 +7,20 @@ _No routes found._
 <!-- sdlc:auto:end endpoints -->
 
 <!-- sdlc:auto:start drift -->
-_Code matches the designed API._
+**Designed but missing:**
+
+- DELETE /account
+- DELETE /notes/{id}
+- GET /notes
+- GET /notes/search
+- GET /notes/{id}
+- POST /auth/login
+- POST /auth/logout
+- POST /auth/password-reset/confirm
+- POST /auth/password-reset/request
+- POST /auth/signup
+- POST /notes
+- PUT /notes/{id}
 <!-- sdlc:auto:end drift -->
 
 <!-- sdlc:auto:start source -->
